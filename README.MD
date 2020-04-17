@@ -6,6 +6,8 @@ Implementation was tested in CircuitPython 5.2 on:
 * PewPew M4 https://www.makerfabs.com/circuitpython-pewpew-m4.html
 * Adafruit PyBadge LC https://www.adafruit.com/product/3939
 
+![Pew Pew M4](/images/pewpewm4_gol.jpg)
+
 ## Configuration
 
 It is possible to configure the following simulation parameters by editing constants near the top of the code.py file:
